@@ -49,7 +49,7 @@ PACKAGES       = peaks \
 		stmlib/system
 RESOURCES      = peaks/resources
 
-TOOLCHAIN_PATH ?= /usr/local/arm-4.8.3/
+TOOLCHAIN_PATH ?= /Users/corba/Documents/Projects/gcc-arm/gcc-arm-none-eabi-4_8-2013q4/
 
 include stmlib/makefile.inc
 
